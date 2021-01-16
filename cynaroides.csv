@@ -1,0 +1,22 @@
+Reference, Quantity, Value, Footprint, Datasheet,LCSC
+C13 ,1,100u,Capacitor_SMD:C_0402_1005Metric,~,C15008
+C14 C15 ,2,22p,Capacitor_SMD:C_0402_1005Metric,~,C1555
+C3 ,1,10n,Capacitor_SMD:C_0402_1005Metric,~,C15195
+C4 ,1,1u,Capacitor_SMD:C_0402_1005Metric,~,C52923
+C7 C8 ,2,4u7,Capacitor_SMD:C_0402_1005Metric,~,C23733
+C9 ,1,4n7,Capacitor_SMD:C_0402_1005Metric,~,C1538
+CUSB1 C1 C2 C5 C6 C10 C11 C12 ,8,100n,Capacitor_SMD:C_0402_1005Metric,~,C1525
+D1 ,1,D_Schottky,Diode_SMD:D_SOD-123,~,C8598
+D2 ,1,D_TVS,Package_TO_SOT_SMD:SOT-23,~,C110748
+D3 D4 D5 D6 D7 D8 D9 D10 D11 D12 D13 D14 D15 D16 D17 D18 D19 D20 D21 D22 D23 D24 D25 D26 D27 D28 D29 D30 D31 D32 D33 ,31,1N4148W,Diode_SMD:D_SOD-123,https://www.vishay.com/docs/85748/1n4148w.pdf,C81598
+F1 ,1,Polyfuse_Small,Fuse:Fuse_0805_2012Metric,~,C261942
+Q1 ,1,DTC123J,Package_TO_SOT_SMD:SOT-323_SC-70,,C111723
+R1 R2 ,2,5k1,Resistor_SMD:R_0402_1005Metric,~,C25905
+R3 ,1,1M,Resistor_SMD:R_0402_1005Metric,~,C26083
+R4 ,1,33k,Resistor_SMD:R_0402_1005Metric,~,C25779
+R5 ,1,100k,Resistor_SMD:R_0402_1005Metric,~,C25741
+R7 R6 ,2,4k7,Resistor_SMD:R_0402_1005Metric,~,C25900
+U1 ,1,USBLC6-2SC6,Package_TO_SOT_SMD:SOT-23-6,http://www2.st.com/resource/en/datasheet/CD00050750.pdf,C7519
+U2 ,1,STM32F411RCTx,Package_QFP:LQFP-64_10x10mm_P0.5mm,http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00115249.pdf,C94355
+U4 ,1,MCP1700-3302E_SOT23,Package_TO_SOT_SMD:SOT-23,http://ww1.microchip.com/downloads/en/DeviceDoc/20001826D.pdf,C39051
+Y1 ,1,Crystal_GND24_Small,Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm,~,C164049

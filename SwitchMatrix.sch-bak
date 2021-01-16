@@ -1,0 +1,1473 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 2 2
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Switch:SW_Push SW2
+U 1 1 5FCB9B83
+P 1800 1275
+F 0 "SW2" H 1800 1560 50  0000 C CNN
+F 1 "SW_Push" H 1800 1469 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 1800 1475 50  0001 C CNN
+F 3 "~" H 1800 1475 50  0001 C CNN
+	1    1800 1275
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D4
+U 1 1 5FCBA570
+P 1450 1275
+F 0 "D4" H 1450 1492 50  0000 C CNN
+F 1 "1N4148W" H 1450 1401 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 1450 1100 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 1450 1275 50  0001 C CNN
+	1    1450 1275
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW3
+U 1 1 5FCBCBF8
+P 2775 1275
+F 0 "SW3" H 2775 1560 50  0000 C CNN
+F 1 "SW_Push" H 2775 1469 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 2775 1475 50  0001 C CNN
+F 3 "~" H 2775 1475 50  0001 C CNN
+	1    2775 1275
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D5
+U 1 1 5FCBCBFE
+P 2425 1275
+F 0 "D5" H 2425 1492 50  0000 C CNN
+F 1 "1N4148W" H 2425 1401 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 2425 1100 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 2425 1275 50  0001 C CNN
+	1    2425 1275
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW4
+U 1 1 5FCC3B2A
+P 3775 1275
+F 0 "SW4" H 3775 1560 50  0000 C CNN
+F 1 "SW_Push" H 3775 1469 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 3775 1475 50  0001 C CNN
+F 3 "~" H 3775 1475 50  0001 C CNN
+	1    3775 1275
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D6
+U 1 1 5FCC3B30
+P 3425 1275
+F 0 "D6" H 3425 1492 50  0000 C CNN
+F 1 "1N4148W" H 3425 1401 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 3425 1100 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 3425 1275 50  0001 C CNN
+	1    3425 1275
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW5
+U 1 1 5FCC3B36
+P 4750 1275
+F 0 "SW5" H 4750 1560 50  0000 C CNN
+F 1 "SW_Push" H 4750 1469 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4750 1475 50  0001 C CNN
+F 3 "~" H 4750 1475 50  0001 C CNN
+	1    4750 1275
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D7
+U 1 1 5FCC3B3C
+P 4400 1275
+F 0 "D7" H 4400 1492 50  0000 C CNN
+F 1 "1N4148W" H 4400 1401 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 4400 1100 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4400 1275 50  0001 C CNN
+	1    4400 1275
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW6
+U 1 1 5FCC542A
+P 5650 1275
+F 0 "SW6" H 5650 1560 50  0000 C CNN
+F 1 "SW_Push" H 5650 1469 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 5650 1475 50  0001 C CNN
+F 3 "~" H 5650 1475 50  0001 C CNN
+	1    5650 1275
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D8
+U 1 1 5FCC5430
+P 5300 1275
+F 0 "D8" H 5300 1492 50  0000 C CNN
+F 1 "1N4148W" H 5300 1401 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 5300 1100 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5300 1275 50  0001 C CNN
+	1    5300 1275
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW7
+U 1 1 5FCC5436
+P 6625 1275
+F 0 "SW7" H 6625 1560 50  0000 C CNN
+F 1 "SW_Push" H 6625 1469 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6625 1475 50  0001 C CNN
+F 3 "~" H 6625 1475 50  0001 C CNN
+	1    6625 1275
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D9
+U 1 1 5FCC543C
+P 6275 1275
+F 0 "D9" H 6275 1492 50  0000 C CNN
+F 1 "1N4148W" H 6275 1401 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 6275 1100 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 6275 1275 50  0001 C CNN
+	1    6275 1275
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1100 1425 1300 1425
+Wire Wire Line
+	6125 1425 6125 1275
+Wire Wire Line
+	5150 1275 5150 1425
+Connection ~ 5150 1425
+Wire Wire Line
+	5150 1425 6125 1425
+Wire Wire Line
+	4250 1275 4250 1425
+Connection ~ 4250 1425
+Wire Wire Line
+	4250 1425 5150 1425
+Wire Wire Line
+	3275 1275 3275 1425
+Connection ~ 3275 1425
+Wire Wire Line
+	3275 1425 4250 1425
+Wire Wire Line
+	2275 1275 2275 1425
+Connection ~ 2275 1425
+Wire Wire Line
+	2275 1425 3275 1425
+Wire Wire Line
+	1300 1275 1300 1425
+Connection ~ 1300 1425
+Wire Wire Line
+	1300 1425 2275 1425
+$Comp
+L Switch:SW_Push SW8
+U 1 1 5FCD5AB9
+P 1800 1850
+F 0 "SW8" H 1800 2135 50  0000 C CNN
+F 1 "SW_Push" H 1800 2044 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 1800 2050 50  0001 C CNN
+F 3 "~" H 1800 2050 50  0001 C CNN
+	1    1800 1850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D10
+U 1 1 5FCD5ABF
+P 1450 1850
+F 0 "D10" H 1450 2067 50  0000 C CNN
+F 1 "1N4148W" H 1450 1976 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 1450 1675 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 1450 1850 50  0001 C CNN
+	1    1450 1850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW9
+U 1 1 5FCD5AC5
+P 2775 1850
+F 0 "SW9" H 2775 2135 50  0000 C CNN
+F 1 "SW_Push" H 2775 2044 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 2775 2050 50  0001 C CNN
+F 3 "~" H 2775 2050 50  0001 C CNN
+	1    2775 1850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D11
+U 1 1 5FCD5ACB
+P 2425 1850
+F 0 "D11" H 2425 2067 50  0000 C CNN
+F 1 "1N4148W" H 2425 1976 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 2425 1675 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 2425 1850 50  0001 C CNN
+	1    2425 1850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW10
+U 1 1 5FCD5AD1
+P 3775 1850
+F 0 "SW10" H 3775 2135 50  0000 C CNN
+F 1 "SW_Push" H 3775 2044 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 3775 2050 50  0001 C CNN
+F 3 "~" H 3775 2050 50  0001 C CNN
+	1    3775 1850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D12
+U 1 1 5FCD5AD7
+P 3425 1850
+F 0 "D12" H 3425 2067 50  0000 C CNN
+F 1 "1N4148W" H 3425 1976 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 3425 1675 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 3425 1850 50  0001 C CNN
+	1    3425 1850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW11
+U 1 1 5FCD5ADD
+P 4750 1850
+F 0 "SW11" H 4750 2135 50  0000 C CNN
+F 1 "SW_Push" H 4750 2044 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4750 2050 50  0001 C CNN
+F 3 "~" H 4750 2050 50  0001 C CNN
+	1    4750 1850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D13
+U 1 1 5FCD5AE3
+P 4400 1850
+F 0 "D13" H 4400 2067 50  0000 C CNN
+F 1 "1N4148W" H 4400 1976 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 4400 1675 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4400 1850 50  0001 C CNN
+	1    4400 1850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW12
+U 1 1 5FCD5AE9
+P 5650 1850
+F 0 "SW12" H 5650 2135 50  0000 C CNN
+F 1 "SW_Push" H 5650 2044 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 5650 2050 50  0001 C CNN
+F 3 "~" H 5650 2050 50  0001 C CNN
+	1    5650 1850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D14
+U 1 1 5FCD5AEF
+P 5300 1850
+F 0 "D14" H 5300 2067 50  0000 C CNN
+F 1 "1N4148W" H 5300 1976 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 5300 1675 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5300 1850 50  0001 C CNN
+	1    5300 1850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW13
+U 1 1 5FCD5AF5
+P 6625 1850
+F 0 "SW13" H 6625 2135 50  0000 C CNN
+F 1 "SW_Push" H 6625 2044 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6625 2050 50  0001 C CNN
+F 3 "~" H 6625 2050 50  0001 C CNN
+	1    6625 1850
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D15
+U 1 1 5FCD5AFB
+P 6275 1850
+F 0 "D15" H 6275 2067 50  0000 C CNN
+F 1 "1N4148W" H 6275 1976 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 6275 1675 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 6275 1850 50  0001 C CNN
+	1    6275 1850
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1100 2000 1300 2000
+Wire Wire Line
+	6125 2000 6125 1850
+Wire Wire Line
+	5150 1850 5150 2000
+Connection ~ 5150 2000
+Wire Wire Line
+	5150 2000 6125 2000
+Wire Wire Line
+	4250 1850 4250 2000
+Connection ~ 4250 2000
+Wire Wire Line
+	4250 2000 5150 2000
+Wire Wire Line
+	3275 1850 3275 2000
+Connection ~ 3275 2000
+Wire Wire Line
+	3275 2000 4250 2000
+Wire Wire Line
+	2275 1850 2275 2000
+Connection ~ 2275 2000
+Wire Wire Line
+	2275 2000 3275 2000
+Wire Wire Line
+	1300 1850 1300 2000
+Connection ~ 1300 2000
+Wire Wire Line
+	1300 2000 2275 2000
+$Comp
+L Switch:SW_Push SW14
+U 1 1 5FCDA8BD
+P 1800 2375
+F 0 "SW14" H 1800 2660 50  0000 C CNN
+F 1 "SW_Push" H 1800 2569 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 1800 2575 50  0001 C CNN
+F 3 "~" H 1800 2575 50  0001 C CNN
+	1    1800 2375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D16
+U 1 1 5FCDA8C3
+P 1450 2375
+F 0 "D16" H 1450 2592 50  0000 C CNN
+F 1 "1N4148W" H 1450 2501 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 1450 2200 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 1450 2375 50  0001 C CNN
+	1    1450 2375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW15
+U 1 1 5FCDA8C9
+P 2775 2375
+F 0 "SW15" H 2775 2660 50  0000 C CNN
+F 1 "SW_Push" H 2775 2569 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 2775 2575 50  0001 C CNN
+F 3 "~" H 2775 2575 50  0001 C CNN
+	1    2775 2375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D17
+U 1 1 5FCDA8CF
+P 2425 2375
+F 0 "D17" H 2425 2592 50  0000 C CNN
+F 1 "1N4148W" H 2425 2501 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 2425 2200 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 2425 2375 50  0001 C CNN
+	1    2425 2375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW16
+U 1 1 5FCDA8D5
+P 3775 2375
+F 0 "SW16" H 3775 2660 50  0000 C CNN
+F 1 "SW_Push" H 3775 2569 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 3775 2575 50  0001 C CNN
+F 3 "~" H 3775 2575 50  0001 C CNN
+	1    3775 2375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D18
+U 1 1 5FCDA8DB
+P 3425 2375
+F 0 "D18" H 3425 2592 50  0000 C CNN
+F 1 "1N4148W" H 3425 2501 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 3425 2200 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 3425 2375 50  0001 C CNN
+	1    3425 2375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW17
+U 1 1 5FCDA8E1
+P 4750 2375
+F 0 "SW17" H 4750 2660 50  0000 C CNN
+F 1 "SW_Push" H 4750 2569 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4750 2575 50  0001 C CNN
+F 3 "~" H 4750 2575 50  0001 C CNN
+	1    4750 2375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D19
+U 1 1 5FCDA8E7
+P 4400 2375
+F 0 "D19" H 4400 2592 50  0000 C CNN
+F 1 "1N4148W" H 4400 2501 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 4400 2200 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4400 2375 50  0001 C CNN
+	1    4400 2375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW18
+U 1 1 5FCDA8ED
+P 5650 2375
+F 0 "SW18" H 5650 2660 50  0000 C CNN
+F 1 "SW_Push" H 5650 2569 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 5650 2575 50  0001 C CNN
+F 3 "~" H 5650 2575 50  0001 C CNN
+	1    5650 2375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D20
+U 1 1 5FCDA8F3
+P 5300 2375
+F 0 "D20" H 5300 2592 50  0000 C CNN
+F 1 "1N4148W" H 5300 2501 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 5300 2200 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5300 2375 50  0001 C CNN
+	1    5300 2375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW19
+U 1 1 5FCDA8F9
+P 6625 2375
+F 0 "SW19" H 6625 2660 50  0000 C CNN
+F 1 "SW_Push" H 6625 2569 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6625 2575 50  0001 C CNN
+F 3 "~" H 6625 2575 50  0001 C CNN
+	1    6625 2375
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D21
+U 1 1 5FCDA8FF
+P 6275 2375
+F 0 "D21" H 6275 2592 50  0000 C CNN
+F 1 "1N4148W" H 6275 2501 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 6275 2200 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 6275 2375 50  0001 C CNN
+	1    6275 2375
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1100 2525 1300 2525
+Wire Wire Line
+	6125 2525 6125 2375
+Wire Wire Line
+	5150 2375 5150 2525
+Connection ~ 5150 2525
+Wire Wire Line
+	5150 2525 6125 2525
+Wire Wire Line
+	4250 2375 4250 2525
+Connection ~ 4250 2525
+Wire Wire Line
+	4250 2525 5150 2525
+Wire Wire Line
+	3275 2375 3275 2525
+Connection ~ 3275 2525
+Wire Wire Line
+	3275 2525 4250 2525
+Wire Wire Line
+	2275 2375 2275 2525
+Connection ~ 2275 2525
+Wire Wire Line
+	2275 2525 3275 2525
+Wire Wire Line
+	1300 2375 1300 2525
+Connection ~ 1300 2525
+Wire Wire Line
+	1300 2525 2275 2525
+$Comp
+L Switch:SW_Push SW20
+U 1 1 5FCDD9A3
+P 1800 2900
+F 0 "SW20" H 1800 3185 50  0000 C CNN
+F 1 "SW_Push" H 1800 3094 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 1800 3100 50  0001 C CNN
+F 3 "~" H 1800 3100 50  0001 C CNN
+	1    1800 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D22
+U 1 1 5FCDD9A9
+P 1450 2900
+F 0 "D22" H 1450 3117 50  0000 C CNN
+F 1 "1N4148W" H 1450 3026 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 1450 2725 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 1450 2900 50  0001 C CNN
+	1    1450 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW21
+U 1 1 5FCDD9AF
+P 2775 2900
+F 0 "SW21" H 2775 3185 50  0000 C CNN
+F 1 "SW_Push" H 2775 3094 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 2775 3100 50  0001 C CNN
+F 3 "~" H 2775 3100 50  0001 C CNN
+	1    2775 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D23
+U 1 1 5FCDD9B5
+P 2425 2900
+F 0 "D23" H 2425 3117 50  0000 C CNN
+F 1 "1N4148W" H 2425 3026 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 2425 2725 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 2425 2900 50  0001 C CNN
+	1    2425 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW22
+U 1 1 5FCDD9BB
+P 3775 2900
+F 0 "SW22" H 3775 3185 50  0000 C CNN
+F 1 "SW_Push" H 3775 3094 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 3775 3100 50  0001 C CNN
+F 3 "~" H 3775 3100 50  0001 C CNN
+	1    3775 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D24
+U 1 1 5FCDD9C1
+P 3425 2900
+F 0 "D24" H 3425 3117 50  0000 C CNN
+F 1 "1N4148W" H 3425 3026 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 3425 2725 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 3425 2900 50  0001 C CNN
+	1    3425 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW23
+U 1 1 5FCDD9C7
+P 4750 2900
+F 0 "SW23" H 4750 3185 50  0000 C CNN
+F 1 "SW_Push" H 4750 3094 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4750 3100 50  0001 C CNN
+F 3 "~" H 4750 3100 50  0001 C CNN
+	1    4750 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D25
+U 1 1 5FCDD9CD
+P 4400 2900
+F 0 "D25" H 4400 3117 50  0000 C CNN
+F 1 "1N4148W" H 4400 3026 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 4400 2725 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4400 2900 50  0001 C CNN
+	1    4400 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW24
+U 1 1 5FCDD9D3
+P 5650 2900
+F 0 "SW24" H 5650 3185 50  0000 C CNN
+F 1 "SW_Push" H 5650 3094 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 5650 3100 50  0001 C CNN
+F 3 "~" H 5650 3100 50  0001 C CNN
+	1    5650 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D26
+U 1 1 5FCDD9D9
+P 5300 2900
+F 0 "D26" H 5300 3117 50  0000 C CNN
+F 1 "1N4148W" H 5300 3026 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 5300 2725 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5300 2900 50  0001 C CNN
+	1    5300 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW25
+U 1 1 5FCDD9DF
+P 6625 2900
+F 0 "SW25" H 6625 3185 50  0000 C CNN
+F 1 "SW_Push" H 6625 3094 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6625 3100 50  0001 C CNN
+F 3 "~" H 6625 3100 50  0001 C CNN
+	1    6625 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D27
+U 1 1 5FCDD9E5
+P 6275 2900
+F 0 "D27" H 6275 3117 50  0000 C CNN
+F 1 "1N4148W" H 6275 3026 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 6275 2725 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 6275 2900 50  0001 C CNN
+	1    6275 2900
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1100 3050 1300 3050
+Wire Wire Line
+	6125 3050 6125 2900
+Wire Wire Line
+	5150 2900 5150 3050
+Connection ~ 5150 3050
+Wire Wire Line
+	5150 3050 6125 3050
+Wire Wire Line
+	4250 2900 4250 3050
+Connection ~ 4250 3050
+Wire Wire Line
+	4250 3050 5150 3050
+Wire Wire Line
+	3275 2900 3275 3050
+Connection ~ 3275 3050
+Wire Wire Line
+	3275 3050 4250 3050
+Wire Wire Line
+	2275 2900 2275 3050
+Connection ~ 2275 3050
+Wire Wire Line
+	2275 3050 3275 3050
+Wire Wire Line
+	1300 2900 1300 3050
+Connection ~ 1300 3050
+Wire Wire Line
+	1300 3050 2275 3050
+$Comp
+L Switch:SW_Push SW26
+U 1 1 5FCE2077
+P 1800 3450
+F 0 "SW26" H 1800 3735 50  0000 C CNN
+F 1 "SW_Push" H 1800 3644 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 1800 3650 50  0001 C CNN
+F 3 "~" H 1800 3650 50  0001 C CNN
+	1    1800 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D28
+U 1 1 5FCE207D
+P 1450 3450
+F 0 "D28" H 1450 3667 50  0000 C CNN
+F 1 "1N4148W" H 1450 3576 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 1450 3275 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 1450 3450 50  0001 C CNN
+	1    1450 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW27
+U 1 1 5FCE2083
+P 2775 3450
+F 0 "SW27" H 2775 3735 50  0000 C CNN
+F 1 "SW_Push" H 2775 3644 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 2775 3650 50  0001 C CNN
+F 3 "~" H 2775 3650 50  0001 C CNN
+	1    2775 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D29
+U 1 1 5FCE2089
+P 2425 3450
+F 0 "D29" H 2425 3667 50  0000 C CNN
+F 1 "1N4148W" H 2425 3576 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 2425 3275 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 2425 3450 50  0001 C CNN
+	1    2425 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW28
+U 1 1 5FCE208F
+P 3775 3450
+F 0 "SW28" H 3775 3735 50  0000 C CNN
+F 1 "SW_Push" H 3775 3644 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 3775 3650 50  0001 C CNN
+F 3 "~" H 3775 3650 50  0001 C CNN
+	1    3775 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D30
+U 1 1 5FCE2095
+P 3425 3450
+F 0 "D30" H 3425 3667 50  0000 C CNN
+F 1 "1N4148W" H 3425 3576 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 3425 3275 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 3425 3450 50  0001 C CNN
+	1    3425 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW29
+U 1 1 5FCE209B
+P 4750 3450
+F 0 "SW29" H 4750 3735 50  0000 C CNN
+F 1 "SW_Push" H 4750 3644 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 4750 3650 50  0001 C CNN
+F 3 "~" H 4750 3650 50  0001 C CNN
+	1    4750 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D31
+U 1 1 5FCE20A1
+P 4400 3450
+F 0 "D31" H 4400 3667 50  0000 C CNN
+F 1 "1N4148W" H 4400 3576 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 4400 3275 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 4400 3450 50  0001 C CNN
+	1    4400 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW30
+U 1 1 5FCE20A7
+P 5650 3450
+F 0 "SW30" H 5650 3735 50  0000 C CNN
+F 1 "SW_Push" H 5650 3644 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 5650 3650 50  0001 C CNN
+F 3 "~" H 5650 3650 50  0001 C CNN
+	1    5650 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D32
+U 1 1 5FCE20AD
+P 5300 3450
+F 0 "D32" H 5300 3667 50  0000 C CNN
+F 1 "1N4148W" H 5300 3576 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 5300 3275 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 5300 3450 50  0001 C CNN
+	1    5300 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Switch:SW_Push SW31
+U 1 1 5FCE20B3
+P 6625 3450
+F 0 "SW31" H 6625 3735 50  0000 C CNN
+F 1 "SW_Push" H 6625 3644 50  0000 C CNN
+F 2 "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB" H 6625 3650 50  0001 C CNN
+F 3 "~" H 6625 3650 50  0001 C CNN
+	1    6625 3450
+	1    0    0    -1  
+$EndComp
+$Comp
+L Diode:1N4148W D33
+U 1 1 5FCE20B9
+P 6275 3450
+F 0 "D33" H 6275 3667 50  0000 C CNN
+F 1 "1N4148W" H 6275 3576 50  0000 C CNN
+F 2 "Diode_SMD:D_SOD-123" H 6275 3275 50  0001 C CNN
+F 3 "https://www.vishay.com/docs/85748/1n4148w.pdf" H 6275 3450 50  0001 C CNN
+	1    6275 3450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1100 3600 1300 3600
+Wire Wire Line
+	6125 3600 6125 3450
+Wire Wire Line
+	5150 3450 5150 3600
+Connection ~ 5150 3600
+Wire Wire Line
+	5150 3600 6125 3600
+Wire Wire Line
+	4250 3450 4250 3600
+Connection ~ 4250 3600
+Wire Wire Line
+	4250 3600 5150 3600
+Wire Wire Line
+	3275 3450 3275 3600
+Connection ~ 3275 3600
+Wire Wire Line
+	3275 3600 4250 3600
+Wire Wire Line
+	2275 3450 2275 3600
+Connection ~ 2275 3600
+Wire Wire Line
+	2275 3600 3275 3600
+Wire Wire Line
+	1300 3450 1300 3600
+Connection ~ 1300 3600
+Wire Wire Line
+	1300 3600 2275 3600
+Wire Wire Line
+	2000 1275 2000 1850
+Connection ~ 2000 1850
+Wire Wire Line
+	2000 1850 2000 2375
+Connection ~ 2000 2375
+Wire Wire Line
+	2000 2375 2000 2900
+Connection ~ 2000 2900
+Wire Wire Line
+	2000 2900 2000 3450
+Wire Wire Line
+	2975 1275 2975 1850
+Connection ~ 2975 1850
+Wire Wire Line
+	2975 1850 2975 2375
+Connection ~ 2975 2375
+Wire Wire Line
+	2975 2375 2975 2900
+Connection ~ 2975 2900
+Wire Wire Line
+	2975 2900 2975 3450
+Wire Wire Line
+	3975 1275 3975 1850
+Connection ~ 3975 1850
+Wire Wire Line
+	3975 1850 3975 2375
+Connection ~ 3975 2375
+Wire Wire Line
+	3975 2375 3975 2900
+Connection ~ 3975 2900
+Wire Wire Line
+	3975 2900 3975 3450
+Wire Wire Line
+	4950 3450 4950 2900
+Connection ~ 4950 1850
+Wire Wire Line
+	4950 1850 4950 1275
+Connection ~ 4950 2375
+Wire Wire Line
+	4950 2375 4950 1850
+Connection ~ 4950 2900
+Wire Wire Line
+	4950 2900 4950 2375
+Wire Wire Line
+	5850 1275 5850 1850
+Connection ~ 5850 1850
+Wire Wire Line
+	5850 1850 5850 2375
+Connection ~ 5850 2375
+Wire Wire Line
+	5850 2375 5850 2900
+Connection ~ 5850 2900
+Wire Wire Line
+	5850 2900 5850 3450
+Wire Wire Line
+	6825 1275 6825 1850
+Connection ~ 6825 1850
+Wire Wire Line
+	6825 1850 6825 2375
+Connection ~ 6825 2375
+Wire Wire Line
+	6825 2375 6825 2900
+Connection ~ 6825 2900
+Wire Wire Line
+	6825 2900 6825 3450
+Text GLabel 1100 1425 0    50   Input ~ 0
+ROW0
+Text GLabel 1100 2000 0    50   Input ~ 0
+ROW1
+Text GLabel 1100 2525 0    50   Input ~ 0
+ROW2
+Text GLabel 1100 3050 0    50   Input ~ 0
+ROW3
+Text GLabel 1100 3600 0    50   Input ~ 0
+ROW4
+Text GLabel 2000 1275 1    50   Input ~ 0
+COL0
+Text GLabel 2975 1275 1    50   Input ~ 0
+COL1
+Text GLabel 3975 1275 1    50   Input ~ 0
+COL2
+Text GLabel 4950 1275 1    50   Input ~ 0
+COL3
+Text GLabel 5850 1275 1    50   Input ~ 0
+COL4
+Text GLabel 6825 1275 1    50   Input ~ 0
+COL5
+$Comp
+L LED:SK6812MINI D34
+U 1 1 5FD763C7
+P 2350 4225
+F 0 "D34" H 2694 4271 50  0000 L CNN
+F 1 "SK6812MINI" H 2694 4180 50  0000 L CNN
+F 2 "foostan:SK6812MINI_rev" H 2400 3925 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 2450 3850 50  0001 L TNN
+	1    2350 4225
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D35
+U 1 1 5FD78938
+P 2950 4225
+F 0 "D35" H 3294 4271 50  0000 L CNN
+F 1 "SK6812MINI" H 3294 4180 50  0000 L CNN
+F 2 "foostan:SK6812MINI_rev" H 3000 3925 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 3050 3850 50  0001 L TNN
+	1    2950 4225
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D36
+U 1 1 5FD792A0
+P 3550 4225
+F 0 "D36" H 3894 4271 50  0000 L CNN
+F 1 "SK6812MINI" H 3894 4180 50  0000 L CNN
+F 2 "foostan:SK6812MINI_rev" H 3600 3925 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 3650 3850 50  0001 L TNN
+	1    3550 4225
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D37
+U 1 1 5FDA165F
+P 4150 4225
+F 0 "D37" H 4494 4271 50  0000 L CNN
+F 1 "SK6812MINI" H 4494 4180 50  0000 L CNN
+F 2 "foostan:SK6812MINI_rev" H 4200 3925 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4250 3850 50  0001 L TNN
+	1    4150 4225
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D38
+U 1 1 5FDA1665
+P 4750 4225
+F 0 "D38" H 5094 4271 50  0000 L CNN
+F 1 "SK6812MINI" H 5094 4180 50  0000 L CNN
+F 2 "foostan:SK6812MINI_rev" H 4800 3925 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4850 3850 50  0001 L TNN
+	1    4750 4225
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D39
+U 1 1 5FDA166B
+P 5350 4225
+F 0 "D39" H 5694 4271 50  0000 L CNN
+F 1 "SK6812MINI" H 5694 4180 50  0000 L CNN
+F 2 "foostan:SK6812MINI_rev" H 5400 3925 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 5450 3850 50  0001 L TNN
+	1    5350 4225
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D40
+U 1 1 5FDB18F9
+P 5950 4225
+F 0 "D40" H 6294 4271 50  0000 L CNN
+F 1 "SK6812MINI" H 6294 4180 50  0000 L CNN
+F 2 "foostan:SK6812MINI_rev" H 6000 3925 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 6050 3850 50  0001 L TNN
+	1    5950 4225
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D41
+U 1 1 5FDB18FF
+P 6550 4225
+F 0 "D41" H 6894 4271 50  0000 L CNN
+F 1 "SK6812MINI" H 6894 4180 50  0000 L CNN
+F 2 "foostan:SK6812MINI_rev" H 6600 3925 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 6650 3850 50  0001 L TNN
+	1    6550 4225
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D42
+U 1 1 5FDB1905
+P 7150 4225
+F 0 "D42" H 7494 4271 50  0000 L CNN
+F 1 "SK6812MINI" H 7494 4180 50  0000 L CNN
+F 2 "foostan:SK6812MINI_rev" H 7200 3925 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 7250 3850 50  0001 L TNN
+	1    7150 4225
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D43
+U 1 1 5FDB190B
+P 7750 4225
+F 0 "D43" H 8094 4271 50  0000 L CNN
+F 1 "SK6812MINI" H 8094 4180 50  0000 L CNN
+F 2 "foostan:SK6812MINI_rev" H 7800 3925 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 7850 3850 50  0001 L TNN
+	1    7750 4225
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D44
+U 1 1 5FDB1911
+P 8350 4225
+F 0 "D44" H 8694 4271 50  0000 L CNN
+F 1 "SK6812MINI" H 8694 4180 50  0000 L CNN
+F 2 "foostan:SK6812MINI_rev" H 8400 3925 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 8450 3850 50  0001 L TNN
+	1    8350 4225
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D45
+U 1 1 5FDB1917
+P 8950 4225
+F 0 "D45" H 9294 4271 50  0000 L CNN
+F 1 "SK6812MINI" H 9294 4180 50  0000 L CNN
+F 2 "foostan:SK6812MINI_rev" H 9000 3925 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 9050 3850 50  0001 L TNN
+	1    8950 4225
+	1    0    0    -1  
+$EndComp
+Entry Wire Line
+	2725 5250 2825 5350
+$Comp
+L LED:SK6812MINI D46
+U 1 1 5FDC6C19
+P 2350 5100
+F 0 "D46" H 2694 5146 50  0000 L CNN
+F 1 "SK6812MINI" H 2694 5055 50  0000 L CNN
+F 2 "foostan:SK6812MINI_rev" H 2400 4800 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 2450 4725 50  0001 L TNN
+	1    2350 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D47
+U 1 1 5FDC6C1F
+P 2950 5100
+F 0 "D47" H 3294 5146 50  0000 L CNN
+F 1 "SK6812MINI" H 3294 5055 50  0000 L CNN
+F 2 "foostan:SK6812MINI_rev" H 3000 4800 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 3050 4725 50  0001 L TNN
+	1    2950 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D48
+U 1 1 5FDC6C25
+P 3550 5100
+F 0 "D48" H 3894 5146 50  0000 L CNN
+F 1 "SK6812MINI" H 3894 5055 50  0000 L CNN
+F 2 "foostan:SK6812MINI_rev" H 3600 4800 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 3650 4725 50  0001 L TNN
+	1    3550 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D49
+U 1 1 5FDC6C2B
+P 4150 5100
+F 0 "D49" H 4494 5146 50  0000 L CNN
+F 1 "SK6812MINI" H 4494 5055 50  0000 L CNN
+F 2 "foostan:SK6812MINI_rev" H 4200 4800 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4250 4725 50  0001 L TNN
+	1    4150 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D50
+U 1 1 5FDC6C31
+P 4750 5100
+F 0 "D50" H 5094 5146 50  0000 L CNN
+F 1 "SK6812MINI" H 5094 5055 50  0000 L CNN
+F 2 "foostan:SK6812MINI_rev" H 4800 4800 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4850 4725 50  0001 L TNN
+	1    4750 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D51
+U 1 1 5FDC6C37
+P 5350 5100
+F 0 "D51" H 5694 5146 50  0000 L CNN
+F 1 "SK6812MINI" H 5694 5055 50  0000 L CNN
+F 2 "foostan:SK6812MINI_rev" H 5400 4800 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 5450 4725 50  0001 L TNN
+	1    5350 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D52
+U 1 1 5FDD1633
+P 5950 5100
+F 0 "D52" H 6294 5146 50  0000 L CNN
+F 1 "SK6812MINI" H 6294 5055 50  0000 L CNN
+F 2 "foostan:SK6812MINI_rev" H 6000 4800 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 6050 4725 50  0001 L TNN
+	1    5950 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D53
+U 1 1 5FDD1639
+P 6550 5100
+F 0 "D53" H 6894 5146 50  0000 L CNN
+F 1 "SK6812MINI" H 6894 5055 50  0000 L CNN
+F 2 "foostan:SK6812MINI_rev" H 6600 4800 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 6650 4725 50  0001 L TNN
+	1    6550 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D54
+U 1 1 5FDD163F
+P 7150 5100
+F 0 "D54" H 7494 5146 50  0000 L CNN
+F 1 "SK6812MINI" H 7494 5055 50  0000 L CNN
+F 2 "foostan:SK6812MINI_rev" H 7200 4800 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 7250 4725 50  0001 L TNN
+	1    7150 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D55
+U 1 1 5FDD1645
+P 7750 5100
+F 0 "D55" H 8094 5146 50  0000 L CNN
+F 1 "SK6812MINI" H 8094 5055 50  0000 L CNN
+F 2 "foostan:SK6812MINI_rev" H 7800 4800 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 7850 4725 50  0001 L TNN
+	1    7750 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D56
+U 1 1 5FDD164B
+P 8350 5100
+F 0 "D56" H 8694 5146 50  0000 L CNN
+F 1 "SK6812MINI" H 8694 5055 50  0000 L CNN
+F 2 "foostan:SK6812MINI_rev" H 8400 4800 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 8450 4725 50  0001 L TNN
+	1    8350 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D57
+U 1 1 5FDD1651
+P 8950 5100
+F 0 "D57" H 9294 5146 50  0000 L CNN
+F 1 "SK6812MINI" H 9294 5055 50  0000 L CNN
+F 2 "foostan:SK6812MINI_rev" H 9000 4800 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 9050 4725 50  0001 L TNN
+	1    8950 5100
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D58
+U 1 1 5FDD8B49
+P 2350 5950
+F 0 "D58" H 2694 5996 50  0000 L CNN
+F 1 "SK6812MINI" H 2694 5905 50  0000 L CNN
+F 2 "foostan:SK6812MINI_rev" H 2400 5650 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 2450 5575 50  0001 L TNN
+	1    2350 5950
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D59
+U 1 1 5FDD8B4F
+P 2950 5950
+F 0 "D59" H 3294 5996 50  0000 L CNN
+F 1 "SK6812MINI" H 3294 5905 50  0000 L CNN
+F 2 "foostan:SK6812MINI_rev" H 3000 5650 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 3050 5575 50  0001 L TNN
+	1    2950 5950
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D60
+U 1 1 5FDD8B55
+P 3550 5950
+F 0 "D60" H 3894 5996 50  0000 L CNN
+F 1 "SK6812MINI" H 3894 5905 50  0000 L CNN
+F 2 "foostan:SK6812MINI_rev" H 3600 5650 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 3650 5575 50  0001 L TNN
+	1    3550 5950
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D61
+U 1 1 5FDD8B5B
+P 4150 5950
+F 0 "D61" H 4494 5996 50  0000 L CNN
+F 1 "SK6812MINI" H 4494 5905 50  0000 L CNN
+F 2 "foostan:SK6812MINI_rev" H 4200 5650 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4250 5575 50  0001 L TNN
+	1    4150 5950
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D62
+U 1 1 5FDD8B61
+P 4750 5950
+F 0 "D62" H 5094 5996 50  0000 L CNN
+F 1 "SK6812MINI" H 5094 5905 50  0000 L CNN
+F 2 "foostan:SK6812MINI_rev" H 4800 5650 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 4850 5575 50  0001 L TNN
+	1    4750 5950
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED:SK6812MINI D63
+U 1 1 5FDD8B67
+P 5350 5950
+F 0 "D63" H 5694 5996 50  0000 L CNN
+F 1 "SK6812MINI" H 5694 5905 50  0000 L CNN
+F 2 "foostan:SK6812MINI_rev" H 5400 5650 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/product-files/2686/SK6812MINI_REV.01-1-2.pdf" H 5450 5575 50  0001 L TNN
+	1    5350 5950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8950 3925 8350 3925
+Wire Wire Line
+	1900 3925 1900 4800
+Wire Wire Line
+	1900 4800 2350 4800
+Connection ~ 2350 3925
+Wire Wire Line
+	2350 3925 1900 3925
+Connection ~ 2950 3925
+Wire Wire Line
+	2950 3925 2350 3925
+Connection ~ 3550 3925
+Wire Wire Line
+	3550 3925 2950 3925
+Connection ~ 4150 3925
+Wire Wire Line
+	4150 3925 3550 3925
+Connection ~ 4750 3925
+Wire Wire Line
+	4750 3925 4150 3925
+Connection ~ 5350 3925
+Wire Wire Line
+	5350 3925 4750 3925
+Connection ~ 5950 3925
+Wire Wire Line
+	5950 3925 5350 3925
+Connection ~ 6550 3925
+Wire Wire Line
+	6550 3925 5950 3925
+Connection ~ 7150 3925
+Wire Wire Line
+	7150 3925 6550 3925
+Connection ~ 7750 3925
+Wire Wire Line
+	7750 3925 7150 3925
+Connection ~ 8350 3925
+Wire Wire Line
+	8350 3925 7750 3925
+Connection ~ 2350 4800
+Wire Wire Line
+	2350 4800 2950 4800
+Connection ~ 2950 4800
+Wire Wire Line
+	2950 4800 3550 4800
+Connection ~ 3550 4800
+Wire Wire Line
+	3550 4800 4150 4800
+Connection ~ 4150 4800
+Wire Wire Line
+	4150 4800 4750 4800
+Connection ~ 4750 4800
+Wire Wire Line
+	4750 4800 5350 4800
+Connection ~ 5350 4800
+Wire Wire Line
+	5350 4800 5950 4800
+Connection ~ 5950 4800
+Wire Wire Line
+	5950 4800 6550 4800
+Connection ~ 6550 4800
+Wire Wire Line
+	6550 4800 7150 4800
+Connection ~ 7150 4800
+Wire Wire Line
+	7150 4800 7750 4800
+Connection ~ 7750 4800
+Wire Wire Line
+	7750 4800 8350 4800
+Connection ~ 8350 4800
+Wire Wire Line
+	8350 4800 8950 4800
+Wire Wire Line
+	1900 5650 1900 4800
+Connection ~ 2350 5650
+Wire Wire Line
+	2350 5650 1900 5650
+Connection ~ 2950 5650
+Wire Wire Line
+	2950 5650 2350 5650
+Connection ~ 3550 5650
+Wire Wire Line
+	3550 5650 2950 5650
+Connection ~ 4150 5650
+Wire Wire Line
+	4150 5650 3550 5650
+Connection ~ 4750 5650
+Wire Wire Line
+	4750 5650 4150 5650
+Wire Wire Line
+	5350 5650 4750 5650
+Connection ~ 1900 4800
+Wire Wire Line
+	2050 5100 2050 4750
+Wire Wire Line
+	2050 4750 9250 4750
+Wire Wire Line
+	9250 4750 9250 4225
+Wire Wire Line
+	2050 5950 2050 5600
+Wire Wire Line
+	2050 5600 9250 5600
+Wire Wire Line
+	9250 5600 9250 5100
+Wire Wire Line
+	2350 6250 2950 6250
+Wire Wire Line
+	9450 6250 9450 5400
+Wire Wire Line
+	9450 4525 8950 4525
+Connection ~ 2950 6250
+Wire Wire Line
+	2950 6250 3550 6250
+Connection ~ 3550 6250
+Wire Wire Line
+	3550 6250 4150 6250
+Connection ~ 4150 6250
+Wire Wire Line
+	4150 6250 4750 6250
+Connection ~ 4750 6250
+Wire Wire Line
+	4750 6250 5350 6250
+Connection ~ 5350 6250
+Connection ~ 2950 4525
+Wire Wire Line
+	2950 4525 2350 4525
+Connection ~ 3550 4525
+Wire Wire Line
+	3550 4525 2950 4525
+Connection ~ 4150 4525
+Wire Wire Line
+	4150 4525 3550 4525
+Connection ~ 4750 4525
+Wire Wire Line
+	4750 4525 4150 4525
+Connection ~ 5350 4525
+Wire Wire Line
+	5350 4525 4750 4525
+Connection ~ 5950 4525
+Wire Wire Line
+	5950 4525 5350 4525
+Connection ~ 6550 4525
+Wire Wire Line
+	6550 4525 5950 4525
+Connection ~ 7150 4525
+Wire Wire Line
+	7150 4525 6550 4525
+Connection ~ 7750 4525
+Wire Wire Line
+	7750 4525 7150 4525
+Connection ~ 8350 4525
+Wire Wire Line
+	8350 4525 7750 4525
+Connection ~ 8950 4525
+Wire Wire Line
+	8950 4525 8350 4525
+Wire Wire Line
+	2350 5400 2950 5400
+Connection ~ 9450 5400
+Wire Wire Line
+	9450 5400 9450 4525
+Connection ~ 2950 5400
+Wire Wire Line
+	2950 5400 3550 5400
+Connection ~ 3550 5400
+Wire Wire Line
+	3550 5400 4150 5400
+Connection ~ 4150 5400
+Wire Wire Line
+	4150 5400 4750 5400
+Connection ~ 4750 5400
+Wire Wire Line
+	4750 5400 5350 5400
+Connection ~ 5350 5400
+Wire Wire Line
+	5350 5400 5950 5400
+Connection ~ 5950 5400
+Wire Wire Line
+	5950 5400 6550 5400
+Connection ~ 6550 5400
+Wire Wire Line
+	6550 5400 7150 5400
+Connection ~ 7150 5400
+Wire Wire Line
+	7150 5400 7750 5400
+Connection ~ 7750 5400
+Wire Wire Line
+	7750 5400 8350 5400
+Connection ~ 8350 5400
+Wire Wire Line
+	8350 5400 8950 5400
+Connection ~ 8950 5400
+Wire Wire Line
+	8950 5400 9450 5400
+$Comp
+L power:GND #PWR0112
+U 1 1 5FE348F6
+P 9450 6250
+F 0 "#PWR0112" H 9450 6000 50  0001 C CNN
+F 1 "GND" H 9455 6077 50  0000 C CNN
+F 2 "" H 9450 6250 50  0001 C CNN
+F 3 "" H 9450 6250 50  0001 C CNN
+	1    9450 6250
+	1    0    0    -1  
+$EndComp
+Connection ~ 9450 6250
+$Comp
+L power:+5V #PWR0113
+U 1 1 5FE40247
+P 8950 3675
+F 0 "#PWR0113" H 8950 3525 50  0001 C CNN
+F 1 "+5V" H 8965 3848 50  0000 C CNN
+F 2 "" H 8950 3675 50  0001 C CNN
+F 3 "" H 8950 3675 50  0001 C CNN
+	1    8950 3675
+	1    0    0    -1  
+$EndComp
+Connection ~ 8950 3925
+Text GLabel 1625 4225 0    50   Input ~ 0
+LED
+Wire Wire Line
+	1625 4225 2050 4225
+Wire Wire Line
+	8950 3925 9500 3925
+Wire Wire Line
+	8950 3750 8950 3675
+Wire Wire Line
+	9500 3750 9500 3925
+Wire Wire Line
+	8950 3750 9500 3750
+Wire Wire Line
+	5350 6250 9450 6250
+$EndSCHEMATC
